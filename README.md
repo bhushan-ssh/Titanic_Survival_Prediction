@@ -1,7 +1,5 @@
 # Titanic Survival Prediction
 
-
-
 ---
 
 ## Overview
