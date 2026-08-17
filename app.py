@@ -97,7 +97,7 @@ def train_model():
 
     # Same final model construction as the notebook.
     final_model = LogisticRegression(
-        **grid.best_params__,
+        **grid.best_params_,
         max_iter=2000,
         random_state=42
     )
