@@ -107,7 +107,7 @@ def train_model():
     metadata = {
         "age_median": float(train["Age"].median()),
         "fare_median": float(train["Fare"].median()),
-        "best_params": grid.best_params__,
+        "best_params": grid.best_params_,
         "feature_names": list(X.columns)
     }
 
