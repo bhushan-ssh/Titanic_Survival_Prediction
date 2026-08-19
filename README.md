@@ -20,6 +20,11 @@ Among the evaluated models, **Logistic Regression achieved the highest validatio
 
 ---
 
+🚀 Live Demo:
+https://bhushan-titanic-ml.streamlit.app/
+
+---
+
 ## Objective
 
 The primary objective is to build a machine learning model capable of predicting passenger survival using the information available in the Titanic dataset.
