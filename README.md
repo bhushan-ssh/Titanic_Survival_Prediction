@@ -24,31 +24,9 @@ https://bhushan-titanic-ml.streamlit.app/
 
 ---
 
-## 📸 Project Showcase
+📸 Project Showcase
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="images/01-overview.png" width="400"/>
-    </td>
-    <td align="center">
-      <img src="images/02-eda.png" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="images/03-model-comparison.png" width="400"/>
-    </td>
-    <td align="center">
-      <img src="images/04-wandb.png" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="images/05-streamlit.png" width="600"/>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td align="center"> <img src="images/01-overview.png" width="400"/><br> <b>Project Overview</b><br> End-to-end Titanic survival prediction workflow </td> <td align="center"> <img src="images/02-eda.png" width="400"/><br> <b>Exploratory Data Analysis</b><br> Understanding patterns and relationships in the dataset </td> </tr> <tr> <td align="center"> <img src="images/03-model-comparison.png" width="400"/><br> <b>Model Comparison</b><br> Comparing Logistic Regression, SGD, Decision Tree and Random Forest </td> <td align="center"> <img src="images/04-wandb.png" width="400"/><br> <b>Experiment Tracking</b><br> Tracking model experiments and performance </td> </tr> <tr> <td colspan="2" align="center"> <img src="images/05-streamlit.png" width="600"/><br> <b>🚀 Streamlit Deployment</b><br> Interactive Titanic survival prediction application </td> </tr> </table>
 
 ---
 
