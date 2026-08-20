@@ -24,6 +24,45 @@ https://bhushan-titanic-ml.streamlit.app/
 
 ---
 
+## 📸 Project Showcase
+
+Here are some visual highlights from the Titanic Survival Prediction project:
+
+### 1. Project Overview
+
+<p align="center">
+  <img src="images/01-overview.png" alt="Titanic ML Project Overview" width="850"/>
+</p>
+
+### 2. Exploratory Data Analysis
+
+<p align="center">
+  <img src="images/02-eda.png" alt="Titanic Exploratory Data Analysis" width="850"/>
+</p>
+
+### 3. Model Comparison
+
+<p align="center">
+  <img src="images/03-model-comparison.png" alt="Machine Learning Model Comparison" width="850"/>
+</p>
+
+### 4. Experiment Tracking
+
+<p align="center">
+  <img src="images/04-wandb.png" alt="Weights and Biases Experiment Tracking" width="850"/>
+</p>
+
+### 5. Streamlit Deployment
+
+<p align="center">
+  <img src="images/05-streamlit.png" alt="Titanic Survival Prediction Streamlit App" width="850"/>
+</p>
+
+
+> These visuals showcase the complete workflow — from exploratory data analysis and model experimentation to experiment tracking and deployment.
+
+---
+
 ## Objective
 
 The primary objective is to build a machine learning model capable of predicting passenger survival using the information available in the Titanic dataset.
