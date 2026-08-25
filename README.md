@@ -765,8 +765,6 @@ The project demonstrates the importance of data preprocessing, meaningful featur
 
 **Bhushan Dattatray Sonawane**
 
-Roll No.: 23f2003210
-
 **Project:** Titanic Survival Prediction
 
-**Focus:** Machine Learning and Data Analysis
+
